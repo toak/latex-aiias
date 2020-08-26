@@ -4,7 +4,7 @@
 
 For a simple usage use https://www.overleaf.com/
 
-You can use SSO with your aiias.edu account and the free edition should be enough for you.
+You can use SSO with your aiias.edu account and the free edition should be enough for you. Just copy the files from the source folder and start editing it in overleaf!
 
 ## Simple paper
 
