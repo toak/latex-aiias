@@ -2,13 +2,13 @@
 
 ## Writing environment
 
-For a simple usage use https://www.overleaf.com/
+For a simple usage of LateX use https://www.overleaf.com/ You can use SSO with your aiias.edu account and the free edition should be enough for you. Just copy the files from the source folder and start editing it in overleaf!
 
-You can use SSO with your aiias.edu account and the free edition should be enough for you. Just copy the files from the source folder and start editing it in overleaf!
+You can also install LateX locally on your computer.
 
 ## Simple paper
 
-You can use this for short papers, you will find the source files and the results in the folder /simple-paper
+You can use this for short papers, you will find the source files and the results in the folder /simple-paper. The *.tex and *.bib can be found in the source folder
 
 ### title.tex
 
@@ -24,7 +24,11 @@ Add your references here, get the notation from books.google.com - when you are 
 
 ### main.tex
 
-Leave it untouched if you don't have to change the style of the document. If you create a more sophisticated paper, make sure you send me the template.
+Leave it untouched if you don't have to change the style of the document. If you create a more sophisticated paper styles, make sure you send me the this file. I will include it in this repo.
+
+### AIIAS___Simple_paper.pdf
+
+The PDF file is created by overleaf.com or your local LateX installation.
 
 ## Why LateX?
 
