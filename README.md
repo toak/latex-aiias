@@ -2,7 +2,7 @@
 
 ## Writing environment
 
-For a simple usage of LateX use https://www.overleaf.com/ You can use SSO with your aiias.edu account and the free edition should be enough for you. Just copy the files from the source folder and start editing it in overleaf!
+For a simple usage of LateX use https://www.overleaf.com/ You can use SSO with your aiias.edu account and the free edition should be enough for you. Just create a blank project, copy the files from the source folder and start editing it in overleaf!
 
 You can also install LateX locally on your computer.
 
