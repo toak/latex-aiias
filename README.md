@@ -4,7 +4,7 @@
 
 Read more: https://medium.com/@marko_kovic/why-i-write-with-latex-and-why-you-should-too-ba6a764fadf9
 
-Warning: you should feel comfortable to explore LateX and invest time first to save time later :)
+Warning: you should feel comfortable to explore LateX and invest time first to save time later :) - use it of papers only, it is powerful and it makes sense when it comes to document structure, citing, etc
 
 ## Writing environment
 
