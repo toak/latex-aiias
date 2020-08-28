@@ -1,10 +1,16 @@
 # LateX templates for usage in AIIAS
 
+## Why LateX?
+
+Read more: https://medium.com/@marko_kovic/why-i-write-with-latex-and-why-you-should-too-ba6a764fadf9
+
+Warning: you should feel comfortable to explore LateX and invest time first to save time later :)
+
 ## Writing environment
 
 For a simple usage of LateX use https://www.overleaf.com/ You can use SSO with your aiias.edu account and the free edition should be enough for you. Just create a blank project, copy the files from the source folder and start editing it in overleaf!
 
-You can also install LateX locally on your computer.
+You can also install LateX locally on your computer (but not even I do it).
 
 ## Simple paper
 
@@ -29,7 +35,3 @@ Leave it untouched if you don't have to change the style of the document. If you
 ### AIIAS___Simple_paper.pdf
 
 The PDF file is created by overleaf.com or your local LateX installation.
-
-## Why LateX?
-
-Read more: https://medium.com/@marko_kovic/why-i-write-with-latex-and-why-you-should-too-ba6a764fadf9
