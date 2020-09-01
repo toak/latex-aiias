@@ -6,6 +6,8 @@ Read more: https://medium.com/@marko_kovic/why-i-write-with-latex-and-why-you-sh
 
 Warning: you should feel comfortable to explore LateX and invest time first to save time later :) - use it of papers only, it is powerful and it makes sense when it comes to document structure, citing, etc
 
+Here is a very useful introduction and reference: https://www.overleaf.com/learn
+
 ## Writing environment
 
 For a simple usage of LateX use https://www.overleaf.com/ You can use SSO with your aiias.edu account and the free edition should be enough for you. Just create a blank project, copy the files from the source folder and start editing it in overleaf!
