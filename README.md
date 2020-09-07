@@ -37,3 +37,7 @@ Leave it untouched if you don't have to change the style of the document. If you
 ### AIIAS___Simple_paper.pdf
 
 The PDF file is created by overleaf.com or your local LateX installation.
+
+## LEAD 620 - Reading report
+
+Same structure as "Simple paper" with prefilled structure and BiBTeX file  
